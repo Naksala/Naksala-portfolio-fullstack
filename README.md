@@ -36,3 +36,4 @@ Colours (light and dark) are at the top of `client/src/styles.css`. The 3D backg
   Set `VITE_API_URL` to your deployed backend address before building.
 - **Backend:** deploy `server/` to Render. Render's free plan blocks Gmail/SMTP, so use `RESEND_API_KEY` there.
   Set the variables from `.env`, with `CLIENT_URL` as your website address.
+  **Live link** : https://naksala.netlify.app
